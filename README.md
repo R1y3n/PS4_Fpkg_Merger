@@ -1,5 +1,5 @@
 # PROJECT FPKG2 (PKG-FUSION ENGINE)
-### New PS4 FPKG Merger & Patch Interleaving Pipeline
+### New PS4 FPKG Merger
 
 [![Status](https://img.shields.io/badge/Status-INTERNAL--ONLY%20%2F%20EMBARGOED-red?style=for-the-badge&logo=shields.io)](https://github.com)
 [![Engine](https://img.shields.io/badge/Architecture-Custom%20Delta--LZMA2%20%2B%20****%2B-blueviolet?style=for-the-badge)](https://github.com)
