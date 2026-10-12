@@ -1,5 +1,5 @@
 # PROJECT FPKG2 (PKG-FUSION ENGINE)
-### Next-Generation Binary Compression & Patch Interleaving Pipeline for PS4 FPKGs
+### New PS4 FPKG Merger & Patch Interleaving Pipeline
 
 [![Status](https://img.shields.io/badge/Status-INTERNAL--ONLY%20%2F%20EMBARGOED-red?style=for-the-badge&logo=shields.io)](https://github.com)
 [![Engine](https://img.shields.io/badge/Architecture-Custom%20Delta--LZMA2%20%2B%20ZSTD%2B-blueviolet?style=for-the-badge)](https://github.com)
@@ -23,16 +23,16 @@
 
 ## 💡 What is FPKG2?
 
-**Project FPKG2** is a ground-up, in-house developed FPKG optimization framework designed to solve the two biggest bottlenecks in modern PS4 preservation and archival: **exponential storage inflation** and **fragmented multi-part package installation (Base + Patch + DLCs)**.
+FPKG optimization framework :)
 
 Traditional tools rely on legacy build leaks of the PS4 SDK packaging structures. FPKG2 bypasses standard packaging conventions using a novel method :).
 
-### Key Capabilities
+### Whats new then sony's tools
 
 * 🧬 **True FPKG Marriage (Unified Packaging)**
-* ⚡ **Next-Gen Compression Ratio:** Reaches up to **45% - 60% overall size reduction**
+* ⚡ **Performant Compression Ratio:** Reaches up to **45% - 60% overall size reduction**
 * 🛡️ **Zero-Performance-Cost On-the-Flly Operations**
-* 🔍 **Bit-Exact Reconstructive Integrity:**
+* 🔍 **Bit-Exact Reconstructive Integrity**
 
 ---
 
