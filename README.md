@@ -30,7 +30,7 @@ Traditional tools rely on legacy build leaks of the PS4 SDK packaging structures
 ### Whats new then sony's tools
 
 * 🧬 **True FPKG Marriage (Unified Packaging)**
-* ⚡ **Performant Compression Ratio:** Reaches up to **45% - 60% overall size reduction**
+* ⚡ **Performant Compression Ratio:**
 * 🛡️ **Zero-Performance-Cost On-the-Flly Operations**
 * 🔍 **Bit-Exact Reconstructive Integrity**
 
