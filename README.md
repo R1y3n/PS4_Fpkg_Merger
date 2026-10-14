@@ -35,15 +35,7 @@ Traditional tools rely on legacy build leaks of the PS4 SDK packaging structures
 
 ---
 
-FPKG2 has undergone rigorous stress testing on several massive testing lately!
-
----
-
-## ⚔️ Why the Delay?
-
-> *"Innovation doesn't happen in a vacuum, and timing is everything."*
-
-We are holding FPKG2 in reserve until the surrounding ecosystem stabilizes to ensure maximum longevity and impact upon deployment.
+FPKG2 has undergone rigorous stress testing lately!
 
 ---
 
