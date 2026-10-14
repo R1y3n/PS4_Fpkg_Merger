@@ -14,10 +14,6 @@
 
 </div>
 
-> [!CAUTION]
-> ### 🛑 PUBLIC RELEASE EMBARGO NOTICE
-> **Project FPKG2 is currently under strict private testing.**  
-
 ---
 
 ## 💡 What is FPKG2?
