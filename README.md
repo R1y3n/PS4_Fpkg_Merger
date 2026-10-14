@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-INTERNAL--ONLY%20%2F%20EMBARGOED-red?style=for-the-badge&logo=shields.io)](https://github.com)
 [![Engine](https://img.shields.io/badge/Architecture-Custom%20Delta--LZMA2%20%2B%20****%2B-blueviolet?style=for-the-badge)](https://github.com)
 [![Target](https://img.shields.io/badge/Platform-PlayStation%204%20(Orbis%20OS)-003791?style=for-the-badge&logo=playstation)](https://github.com)
-[![Integrity](https://img.shields.io/badge/Verification-Bit--Exact%20Hash%20Validation-success?style=for-the-badge)](https://github.com)
+[![Integrity](https://img.shields.io/badge/Verification-Custom%20Compression%20Format-success?style=for-the-badge)](https://github.com)
 
 <p align="center">
   <b>Single-pass pipeline that unifies base game & update & patches</b>
